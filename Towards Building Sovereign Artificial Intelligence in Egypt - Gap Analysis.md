@@ -1,5 +1,5 @@
 # Towards Building Sovereign Artificial Intelligence in Egypt - Gap Analysis
-By [[Emad Naguib]]
+By Emad Naguib
 May 2026
   
 # Abstract
@@ -824,7 +824,7 @@ Qwen3 models are decoder-only transformer-based models. MoE variants share the s
 
 Specifically for MoE, Qwen3 uses a total of 128 experts, with 8 experts enabled per token. It employs fine-grained expert segmentation, does not include shared experts, and uses global-batch load balancing loss to encourage expert specialization.
 
-![[Qwen3-30B-A3B-Instruct-2507.png]]
+![Qwen3-30B-A3B-Instruct-2507 architecture](Qwen3-30B-A3B-Instruct-2507.png)
 
 ### 3-3-2 Safety Reports
 
@@ -877,7 +877,7 @@ The “word breaker” settings also indicate that it uses Qwen2Tokenizer, which
 
 The model uses Qwen’s tokenizer, described in the technical report as byte-level byte-pair encoding (BBPE). The report indicates a vocabulary size of 151,669 for Qwen3 overall, while the checkpoint config shows 151,936, implying additional reserved/control tokens at the checkpoint. The model card does not specify exact reconciliation.
 
-The positional encoding is RoPE (rotary positional embeddings), which involves long-context training in Qwen3 using Adaptive Base Frequency (ABF) to raise the RoPE base frequency (from 10,000 to 1,000,000) during long-context training, and inference time mechanisms (YARN, Dual Chunk Attention DCA) to expand beyond the trained ranges. Model 2507 declares a native window of 256,000 and workflows of 1 million.
+The positional encoding is RoPE (rotary positional embeddings), which involves long-context training in Qwen3 using Adaptive Base Frequency (ABF) to raise the RoPE base frequency (from 10,000 to 1,000,000) during long-context training, and inference-time mechanisms (YARN, Dual Chunk Attention DCA) to expand beyond the trained ranges. Model 2507 declares a native window of 256,000 and workflows of 1 million.
 
 ### 3-3-5 Strengths, Weaknesses, and Operational Considerations
 
