@@ -1,3 +1,4 @@
+# Towards Building Sovereign Artificial Intelligence in Egypt - Gap Analysis
 By [[Emad Naguib]]
 May 2026
   
