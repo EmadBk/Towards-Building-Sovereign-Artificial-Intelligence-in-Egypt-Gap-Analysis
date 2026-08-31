@@ -1,9 +1,9 @@
-Towards Building Sovereign Artificial Intelligence in Egypt - Gap Analysis
+# Towards Building Sovereign Artificial Intelligence in Egypt - Gap Analysis
 
 By Emad Naguib
 May 2026
 
-# Abstract
+## Abstract
 
 This study examines the challenge of building sovereign artificial intelligence in Egypt through a gap analysis approach, in light of the rapid transformations taking place in the field of artificial intelligence, particularly the rise of large language models and generative AI, and the resulting intensification of international competition over the development of national strategies that enhance technological capabilities and digital sovereignty. The study is grounded in the existence of a gap between Egypt’s strategic ambitions in artificial intelligence and the institutional, regulatory, data, computational, and human capacity requirements necessary to build a national AI ecosystem capable of developing and deploying AI effectively in support of development, public sector modernization, and technological autonomy.
 
@@ -15,7 +15,7 @@ The study finds that Egypt has made important progress at the strategic and inst
 
 Sovereign AI - National AI Strategy - Gap Analysis - Large Language Models - Digital Sovereignty
 
-Table of Content
+## Table of Content
 
 **Section One: General Framework**
 1-1 Introduction
