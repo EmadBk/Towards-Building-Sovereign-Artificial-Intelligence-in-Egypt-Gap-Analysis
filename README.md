@@ -18,66 +18,70 @@ Sovereign AI - National AI Strategy - Gap Analysis - Large Language Models - Dig
 ## Table of Content
 
 **Section One: General Framework**
-1-1 Introduction
-1-2 Research Problem
-1-3 Research Objectives
-1-4 Research Significance
-1-5 Research Questions
-1-6 Research Scope
-1-7 Research Methodology
-1-8 Previous Studies
-1-9 Commentary on Previous Studies
+
+- 1-1 Introduction
+- 1-2 Research Problem
+- 1-3 Research Objectives
+- 1-4 Research Significance
+- 1-5 Research Questions
+- 1-6 Research Scope
+- 1-7 Research Methodology
+- 1-8 Previous Studies
+- 1-9 Commentary on Previous Studies
 
 **Section Two: Theoretical Framework**
-2-1 Concept of Sovereign Artificial Intelligence
-2-2 Why Do We Need Sovereign AI Models?
-2-2-1 Education
-2-2-2 E-Governance
-2-2-3 Agriculture and Healthcare
-2-3 National AI Strategies
-2-3-1 Drivers behind National Strategies
-2-3-2 Analysis of National Strategies
-2-3-2-1 Strategic Vision and National Positioning
-2-3-2-2 Institutional Governance and Leadership Mechanism
-2-3-2-3 Regulatory and Ethical Framework
-2-3-2-4 National Data and Data Governance
-2-3-2-5 Computational Infrastructure
-2-3-2-6 Capacity to Develop Foundation Models
-2-3-2-7 Human Capital and Skills
-2-3-2-8 Scientific Research, Innovation and Technology Transfer
-2-3-2-9 Ecosystem
-2-3-2-10 AI Applications
-2-3-2-11 Integration with Government Digital Transformation
-2-3-2-12 Economic and Social Impact
-2-3-2-13 Sovereign Dimension and National Security
-2-3-2-14 Flexibility and Updatability
-2-3-2-15 Priority Sectors
-2-4 Governments' readiness for artificial intelligence
-2-5 Developing Large Language Models
-2-5-1 Developing Language Models
-2-5-2 State-Funded Models
-2-5-3 Models Developed Through Private Sector Initiatives
-2-6 Funding
+
+- 2-1 Concept of Sovereign Artificial Intelligence
+- 2-2 Why Do We Need Sovereign AI Models?
+- 2-2-1 Education
+- 2-2-2 E-Governance
+- 2-2-3 Agriculture and Healthcare
+- 2-3 National AI Strategies
+- 2-3-1 Drivers behind National Strategies
+- 2-3-2 Analysis of National Strategies
+- 2-3-2-1 Strategic Vision and National Positioning
+- 2-3-2-2 Institutional Governance and Leadership Mechanism
+- 2-3-2-3 Regulatory and Ethical Framework
+- 2-3-2-4 National Data and Data Governance
+- 2-3-2-5 Computational Infrastructure
+- 2-3-2-6 Capacity to Develop Foundation Models
+- 2-3-2-7 Human Capital and Skills
+- 2-3-2-8 Scientific Research, Innovation and Technology Transfer
+- 2-3-2-9 Ecosystem
+- 2-3-2-10 AI Applications
+- 2-3-2-11 Integration with Government Digital Transformation
+- 2-3-2-12 Economic and Social Impact
+- 2-3-2-13 Sovereign Dimension and National Security
+- 2-3-2-14 Flexibility and Updatability
+- 2-3-2-15 Priority Sectors
+- 2-4 Governments' readiness for artificial intelligence
+- 2-5 Developing Large Language Models
+- 2-5-1 Developing Language Models
+- 2-5-2 State-Funded Models
+- 2-5-3 Models Developed Through Private Sector Initiatives
+- 2-6 Funding
 
 **Section Three: The Applied Framework**
-3-1 Analysis of the current situation in Egypt
-3-1-1 Legislative and Regulatory Framework
-3-1-2 SWOT Analysis
-3.1.3 Challenges Facing Arabic in Artificial Intelligence
-3-1-4 PESTEL Analysis
-3-2 Gap Analysis
-3.3 Karnak Model Evaluation
-3-3-1 Architecture
-3-3-2 Safety Reports
-3-3-3 Structural facts of the (official) form card
-3-3-4 Tokenizer and Positional Encoding
-3-3-5 Strengths, Weaknesses, and Operational Considerations
-3-3-5-1 Strengths
-3-3-5-2 Weaknesses and Risks
-3-3-5-3 Practical Aspects of Response Time, Memory, and Inference Cost
+
+- 3-1 Analysis of the current situation in Egypt
+- 3-1-1 Legislative and Regulatory Framework
+- 3-1-2 SWOT Analysis
+- 3.1.3 Challenges Facing Arabic in Artificial Intelligence
+- 3-1-4 PESTEL Analysis
+- 3-2 Gap Analysis
+- 3.3 Karnak Model Evaluation
+- 3-3-1 Architecture
+- 3-3-2 Safety Reports
+- 3-3-3 Structural facts of the (official) form card
+- 3-3-4 Tokenizer and Positional Encoding
+- 3-3-5 Strengths, Weaknesses, and Operational Considerations
+- 3-3-5-1 Strengths
+- 3-3-5-2 Weaknesses and Risks
+- 3-3-5-3 Practical Aspects of Response Time, Memory, and Inference Cost
 
 **Section Four: Results and recommendations**
-Results
-Recommendations
 
-References
+- Results
+- Recommendations
+
+** References**
